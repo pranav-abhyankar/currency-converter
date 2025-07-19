@@ -12,5 +12,5 @@ A straightforward currency converter application that allows users to convert va
 
 ## 🧰 Tech Stack
 
-- **Frontend / GUI**: HTML/CSS/JavaScript *or* JavaFX
+- **Frontend / GUI**: HTML/CSS/JavaScript 
 - **API**: Currency API 
